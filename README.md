@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+
 ## Getting Started
 
 First, run the development server:
@@ -16,21 +18,26 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+Results:
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![img1](https://github.com/Satyam2003-dev/linktree/assets/75772136/1601a4bd-857f-481c-bfea-78e94a9e4590)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+choose your username
 
-## Deploy on Vercel
+![img2](https://github.com/Satyam2003-dev/linktree/assets/75772136/5be24fad-aa76-4fc5-b255-f58e4b7846f9)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+after it will redirect to claim username page where claim username and after successful claim it will redirect to the page where bio and other stuff can be edited and filled 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![img3](https://github.com/Satyam2003-dev/linktree/assets/75772136/a4be8846-2198-4c6a-a0cc-0fe78f6f0852)
+
+
+click on username and it will redirect to username page 
+
+![img4](https://github.com/Satyam2003-dev/linktree/assets/75772136/fad5d4e1-4d01-4fc0-b94d-e5a60624295b)
+
+
+Thats it!
+
