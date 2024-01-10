@@ -16,6 +16,11 @@ pnpm dev
 bun dev
 ```
 
+Flowchart to understand and use it properly
+
+![flowchart-linktree drawio](https://github.com/Satyam2003-dev/linktree/assets/75772136/30932e36-034e-4d30-8199-524b753c1172)
+
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 
