@@ -35,7 +35,7 @@ export default function HeroForm({user}) {
       onSubmit={handleSubmit}
       className="inline-flex items-center rounded shadow-lg bg-white shadow-gray-500/20">
           <span className="rounded bg-white py-4 pl-4 font-bold">
-            linklist.to/
+            linktree.to/
           </span>
       <input
         type="text"
