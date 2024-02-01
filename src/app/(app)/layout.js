@@ -1,12 +1,20 @@
+import { Analytics } from '@vercel/analytics/react';
+
 export const metadata = {
-  title: 'Linktree',
-  description: 'Linktree',
-}
+  title: "Linktree",
+  description: "Linktree",
+};
 
 export default function RootLayout({ children }) {
- return (
+  return (
     <html lang="en">
-      <body>{children}</body>
+      <head>
+        <title>Link Tree</title>
+      </head>
+      <body>
+        {children}
+        <Analytics />
+      </body>
     </html>
-  )
+  );
 }
